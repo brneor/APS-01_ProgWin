@@ -8,7 +8,6 @@
         <e p="APS_02.csproj" t="IncludeRecursive" />
         <e p="Controllers" t="Include">
           <e p="ProdutoController.cs" t="Include" />
-          <e p="WeatherForecastController.cs" t="Include" />
         </e>
         <e p="DAOs" t="Include">
           <e p="BaseDAO.cs" t="Include" />
@@ -27,7 +26,6 @@
         <e p="ViewModels" t="Include">
           <e p="Command.cs" t="Include" />
         </e>
-        <e p="WeatherForecast.cs" t="Include" />
         <e p="appsettings.Development.json" t="Include" />
         <e p="appsettings.json" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
